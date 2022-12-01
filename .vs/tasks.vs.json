@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-NewFile",
+      "appliesTo": "Angular-2-Project-1/app/ts/NewFile",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-playlist.component",
+      "appliesTo": "Angular-2-Project-1/app/ts/playlist.component.html",
+      "type": "launch"
+    }
+  ]
+}
